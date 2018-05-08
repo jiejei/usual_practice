@@ -2,6 +2,7 @@
 #encoding=utf-8
 #fun:通过备份日志文件里记录的时间，找出备份时间大于5分钟的数据库名称
 #时间匹配格式:"%Y-%m-%d %H:%M:%S"
+#ceshi
 
 import datetime,time,commands,os,sys
 
