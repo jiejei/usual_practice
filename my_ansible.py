@@ -1,10 +1,14 @@
 #/usr/bin/python2.7
 # -*- coding:utf8 -*-
+<<<<<<< HEAD
 '''
 Created on 2017年1月13日
 ceshi
 @author: qiancheng
 '''
+=======
+
+>>>>>>> a5042acf024674d84134ea9d5fba88d19489d7bf
 
 import os
 import json
