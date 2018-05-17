@@ -1,0 +1,3 @@
+password=`cat /dev/urandom |tr -dc "@#$%&*A-Za-k2-9"|fold -w 8|head  -n 1`
+
+
